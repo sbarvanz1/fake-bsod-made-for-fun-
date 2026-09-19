@@ -3,7 +3,7 @@
 this is not real
 just made for fun
 
-it's a fake virus/fake BSOD simuiator
+it's a fake virus/fake BSOD simulator
 
 it does not delete modify encrypt or move real files
 
