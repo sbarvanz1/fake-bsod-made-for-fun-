@@ -1,2 +1,4 @@
-# fake-bsod-made-for-fun-
+# THIS IS NOT REAL
+
+this is not real
 just made for fun
